@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-class Square:
+class mys_quare():
     """
     Class Square that defines a square.
     """
