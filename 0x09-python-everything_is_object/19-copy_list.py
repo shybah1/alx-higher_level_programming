@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 def copy_list(l):
-    return m = l.copy()
+    return l.copy()
