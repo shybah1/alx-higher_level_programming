@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# 4-append_write.py
-# Brennan D Baraban <375@holbertonschool.com>
+# 2-append_write.py
 """Defines a file-appending function."""
 
 
